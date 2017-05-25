@@ -1,0 +1,33 @@
+body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	background-color: black;
+}
+.navitem {
+  display: inline-block;
+}
+.navlist {
+  margin: 0 0 0 20px;
+  padding: 12px;
+}
+header{
+    background-color: black;
+    font-size: 20px;
+}
+.navlink a{
+	padding-right:30px;
+	color:white;
+	text-decoration: none;
+}
+.navbar{
+	float:right;
+	padding-right: 20px;
+}
+.navlink.contact{
+	border-style: solid;
+	border-width: 1.5px;
+	border-color: white;
+	border-radius: 3px;
+	
+}
