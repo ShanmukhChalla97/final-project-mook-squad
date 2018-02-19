@@ -1,3 +1,3 @@
 # CS 290 Final Project
 
-Please see the the repository prior to the fork
+Please see the repository prior to the fork
